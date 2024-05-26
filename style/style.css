@@ -1,0 +1,48 @@
+h1 {
+  text-align: center;
+  font-family: Georgia, serif;
+}
+
+.leftcolumn {   
+  float: left;
+  width: 25%;
+}
+
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 75%;
+  
+  
+}
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  margin-top: 20px;
+}
+table {
+  width: 70%;
+  border: 1px solid;
+  margin-left: auto;
+  margin-right: auto; 
+}
+.qw {
+	text-align: center;
+  font-family: Georgia, serif;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
